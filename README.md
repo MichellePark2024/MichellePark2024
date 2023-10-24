@@ -4,7 +4,11 @@
 ## My name is Miok Park
 - 👯 I'm a digital designer
 - 🌱 I’m currently learning coding
+- 🤔 I’m looking for a job in the future
 
+  
+## Here is my linkedin profile👇
+[Spiced Academy](https://www.spiced-academy.com/en)
 
 <!--
 **MichellePark2024/MichellePark2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
