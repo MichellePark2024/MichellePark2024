@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## My name is Miok Park
+- 👯 I'm a digital designer
+- 🌱 I’m currently learning coding
+
+
 <!--
 **MichellePark2024/MichellePark2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
